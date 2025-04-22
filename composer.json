@@ -23,7 +23,6 @@
   "require": {
     "php": "^8.2",
     "ext-pdo": "*",
-    "illuminate/support": "^11.0",
     "dacoto/laravel-env-set": "^2.0"
   },
   "require-dev": {
